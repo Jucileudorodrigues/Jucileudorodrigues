@@ -3,8 +3,8 @@
 :man:Sou, **Jucileudo Rodrigues** <br>
 Programador Front-end | Apaixonado por Tecnologia | Aprendizado Contínuo<br>
 
-<a href="https://www.jucileudorodrigues.com.br">:computer: Meu Site<a/> | [Email](mailto:contato@jucileudorodrigues.com.br)
- | <a href="www.linkedin.com/in/jucileudo-rodrigues">Meu Linkedin<a/>
+<a href="https://www.jucileudorodrigues.com.br">:computer: Meu Site<a/> | :email: [Email](mailto:contato@jucileudorodrigues.com.br)
+ |  :briefcase: <a href="www.linkedin.com/in/jucileudo-rodrigues">Meu Linkedin<a/>
 
 <br>Atualmente, estou cursando Bacharelado em Engenharia de Software :mortar_board: e desenvolvendo projetos com as seguintes tecnologias: 
 
